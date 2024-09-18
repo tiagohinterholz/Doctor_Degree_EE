@@ -1,0 +1,109 @@
+//=========================== Cargas Circuito 2 ===================================================================================
+
+New Load.Carga1			  	  Bus1 = 40bBT      phases = 3  kW = 51.04 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.PostoBR		  	  Bus1 = 43bBT      phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.BB    			  	  Bus1 = 48bBT      phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.CCS		 	  	  Bus1 = 57bBT      phases = 3  kW = 85.07 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Bioequiv  	 	  	  Bus1 = 78bBT      phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Fonoaudiologia	  	  Bus1 = 81bBT      phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.TerapiaOcupacional	  Bus1 = 84bBT      phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.PocoHusm		  	  Bus1 = 86bBT      phases = 3  kW = 10.20 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Odonto			  	  Bus1 = 91bBT      phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Galpaomadame     	  Bus1 = 96bBT      phases = 3  kW = 10.20 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Barragem  	 	  	  Bus1 = 423bBT     phases = 3  kW = 15.31 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Bibliotecacentral	  Bus1 = 100bBT     phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.CEU1 			      Bus1 = 347bBT     phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.CEU2  			      Bus1 = 349bBT     phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.RU1	 	          Bus1 = 351bBT     phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Indigena1 	 	      Bus1 = 414bBT     phases = 3  kW = 38.28 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Indigena2		      Bus1 = 415bBT     phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.CEF  			      Bus1 = 332bBT     phases = 3  kW = 38.28 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.CPD   			      Bus1 = 320bBT     phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Reitoria1		      Bus1 = 319bBT     phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Reitoria2	 	      Bus1 = 319bBT     phases = 3  kW = 170.1 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Centroecumenico      Bus1 = 311bBT     phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Anfiteatro		      Bus1 = 316bBT     phases = 3  kW = 340.3 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Pscinas		      Bus1 = 304bBT     phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Parqueexposicoes1    Bus1 = 292bBT     phases = 3  kW = 51.04 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Parqueexposicoes2    Bus1 = 284bBT     phases = 3  kW = 25.52 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Parqueexposicoes3    Bus1 = 282bBT     phases = 3  kW = 38.28 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Parqueexposicoes4    Bus1 = 276bBT     phases = 3  kW = 38.28 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.Parqueexposicoes5    Bus1 = 279bBT     phases = 3  kW = 27.22 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+New Load.AGITEC		          Bus1 = 273bBT     phases = 3  kW = 76.56 model = 1  conn = delta    kV = 0.38  status = variable  PF = 0.92  yearly=base
+																	   
+//==============================================================================================================================================
+
+
+//=========================== Cargas Circuito 4 =================================================================================
+
+New Load.Grafica		 Bus1 = 36dBT      phases = 3 kW = 170.14   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CTISM		  	 Bus1 = 30dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Labmotores		 Bus1 = 35dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Carga2	 	  	 Bus1 = 34dBT      phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Baciashidro	 Bus1 = 25dBT      phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Engquimica		 Bus1 = 24dBT      phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Labhidraulica	 Bus1 = 22dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Quimica		 Bus1 = 03dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.LabCT		     Bus1 = 02dBT      phases = 3 kW = 170.14   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Matematica 	 Bus1 = 01dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CT				 Bus1 = 01dBT      phases = 3 kW = 102.08   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CE	 			 Bus1 = 05dBT      phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Almoxarifado	 Bus1 = 08dBT      phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CE2	 	     Bus1 = 10dBT      phases = 3 kW = 102.08   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Napo1	 	 	 Bus1 = 20dBT      phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Napo2			 Bus1 = 430dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Manutencao		 Bus1 = 106dBT     phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Poco1			 Bus1 = 109dBT     phases = 3 kW = 10.208   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Poco2			 Bus1 = 112dBT     phases = 3 kW = 10.208   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Labengnatural 	 Bus1 = 115dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Restjardimbot	 Bus1 = 119dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Jardimbot		 Bus1 = 122dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Coxilha		 Bus1 = 127dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Galpao1		 Bus1 = 363dBT     phases = 3 kW = 5.1049   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Galpao2		 Bus1 = 375dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Galpao3		 Bus1 = 391dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Antena			 Bus1 = 395dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Fatec 	 	 	 Bus1 = 130dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Detran		     Bus1 = 135dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Petrobras		 Bus1 = 134dBT     phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio18	  	 Bus1 = 142dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio19		 Bus1 = 141dBT     phases = 3 kW = 170.14   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio21 	  	 Bus1 = 139dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CEEMA	  	 	 Bus1 = 138dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Dentrologia	 Bus1 = 146dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio40		 Bus1 = 152dBT     phases = 3 kW = 102.08   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio42		 Bus1 = 150dBT     phases = 3 kW = 170.14   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio43	     Bus1 = 149dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Predio44  	 	 Bus1 = 148dBT     phases = 3 kW = 102.08   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Geomatica	 	 Bus1 = 154dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.NIDAL 			 Bus1 = 252dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.LabFloresta	 Bus1 = 255dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Danca 	         Bus1 = 427dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Musica	 	 	 Bus1 = 260dBT     phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CCSH			 Bus1 = 259dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Viveiro		 Bus1 = 262dBT     phases = 3 kW = 24.999   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Planetario		 Bus1 = 158dBT     phases = 3 kW = 102.08   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CCSHA			 Bus1 = 161dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CCSHB		 	 Bus1 = 160dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.CCSHC			 Bus1 = 159dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Politecnico	 Bus1 = 223dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Politecnico2    Bus1 = 227dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Aviario		 Bus1 = 238dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Racoes			 Bus1 = 236dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Zootecnia		 Bus1 = 234dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Psicultura1	 Bus1 = 397dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Psicultura2	 Bus1 = 249dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Suino		     Bus1 = 404dBT     phases = 3 kW = 25.522   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Agricola		 Bus1 = 166dBT     phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Destilaria	 	 Bus1 = 170dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Virologia	     Bus1 = 272dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.HCV	 		 Bus1 = 181dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Bioterio	     Bus1 = 199dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Cetas			 Bus1 = 198dBT     phases = 3 kW = 38.283   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Irriga			 Bus1 = 204dBT     phases = 3 kW = 15.313   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Tambo			 Bus1 = 210dBT     phases = 3 kW = 76.567   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+New Load.Laticinios 	 Bus1 = 219dBT     phases = 3 kW = 51.044   model = 1  conn = delta   kV = 0.38  status = variable  PF = 0.92   yearly=base 
+
+
+//===========================================================================================================================================
+

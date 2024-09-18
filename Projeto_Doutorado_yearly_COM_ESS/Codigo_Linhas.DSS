@@ -1,0 +1,14 @@
+!!======================== Codigo das Linhas ====================================
+
+!!======================== Codigo das Linhas ====================================
+// Parametros R1,R0,X1,X0,C1,C0 Calculados na tabela do EXCEL
+
+
+New linecode.CA95mm nphases=3 BaseFreq=60 units=m r1=0.0004132 r0=0.01   x1=0.001001126  x0=0.01  C1=0.000000006661     C0=0.01   Normamps=372     Emergamps=400
+New linecode.CA50mm nphases=3 BaseFreq=60 units=m r1=0.0006568 r0=0.01   x1=0.001018703  x0=0.01  C1=0.000000006481     C0=0.01   Normamps=278     Emergamps=300
+New linecode.CA2    nphases=3 BaseFreq=60 units=m r1=0.0010439 r0=0.01   x1=0.001158087  x0=0.01  C1=0.000000004824     C0=0.01   Normamps=208     Emergamps=250
+New linecode.CAA2   nphases=3 BaseFreq=60 units=m r1=0.0011023 r0=0.01   x1=0.001147879  x0=0.01  C1=0.000000005372     C0=0.01   Normamps=206     Emergamps=240
+New linecode.CAA4   nphases=3 BaseFreq=60 units=m r1=0.0017119 r0=0.01   x1=0.00081822   x0=0.01  C1=0.000000005254     C0=0.01   Normamps=156     Emergamps=200
+New linecode.CAA6   nphases=3 BaseFreq=60 units=m r1=0.0026769 r0=0.01   x1=0.001183121  x0=0.01  C1=0.000000005142     C0=0.01   Normamps=118     Emergamps=150
+New linecode.CAA1_0 nphases=3 BaseFreq=60 units=m r1=0.000709  r0=0.01   x1=0.001130469  x0=0.01  C1=0.000000005495     C0=0.01   Normamps=273     Emergamps=300
+New linecode.CAA4_0 nphases=3 BaseFreq=60 units=m r1=0.0003797 r0=0.01   x1=0.001104161  x0=0.01  C1=0.000000000005691  C0=0.01   Normamps=408     Emergamps=450

@@ -1,0 +1,4 @@
+New LoadShape.base     npts=2880 interval=1 Pmult=(File=load_shape_abril.txt) 
+New Loadshape.GenUFV   npts=2880 interval=1 Pmult=(File=Gen_ufv_abril.txt)
+
+

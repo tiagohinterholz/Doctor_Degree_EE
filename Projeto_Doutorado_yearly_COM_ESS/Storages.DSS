@@ -1,0 +1,7 @@
+New Storage.S_Predio9F   bus1 = G14  Phases = 3 conn = delta kv = 0.38 pf = 1 kWrated = 110 kWhrated = 1320  DispMode = external State = idling  %reserve = 0  %idlingkW = 0 //kWrated = 110 kWhrated = 1320
+New Storage.S_Parque_Exp bus1 = G15  Phases = 3 conn = delta kv = 0.38 pf = 1 kWrated = 400 kWhrated = 4800  DispMode = external State = idling  %reserve = 0  %idlingkW = 0 //kWrated = 400 kWhrated = 4800
+New Storage.S_CTISM      bus1 = G16  Phases = 3 conn = delta kv = 0.38 pf = 1 kWrated = 45  kWhrated = 540   DispMode = external State = idling  %reserve = 0  %idlingkW = 0 //kWrated = 45  kWhrated = 540 
+New Storage.S_CEU60      bus1 = G17  Phases = 3 conn = delta kv = 0.38 pf = 1 kWrated = 30  kWhrated = 360   DispMode = external State = idling  %reserve = 0  %idlingkW = 0 //kWrated = 30  kWhrated = 360 
+																																			  
+
+

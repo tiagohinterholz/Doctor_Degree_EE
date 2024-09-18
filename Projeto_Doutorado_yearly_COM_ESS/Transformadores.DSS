@@ -1,0 +1,106 @@
+//=========================== TRs Circuito 2 ========================================================================================================
+
+New Transformer.Carga1			   Buses=[40b  , 40bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.PostoBR		  	   Buses=[43b  , 43bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.BB    			   Buses=[48b  , 48bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CCS		 	  	   Buses=[57b  , 57bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[250   250  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73 // G4 66 kVA
+New Transformer.Bioequiv  	 	   Buses=[78b  , 78bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G8 260 kVA
+New Transformer.Fonoaudiologia	   Buses=[81b  , 81bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.TerapiaOcupacional Buses=[84b  , 84bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.PoçoHusm		   Buses=[86b  , 86bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[30    30   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Odonto			   Buses=[91b  , 91bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Galpaomadame       Buses=[96b  , 96bBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[30    30   ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Barragem  	 	   Buses=[423b , 423bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Bibliotecacentral  Buses=[100b , 100bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CEU1 			   Buses=[347b , 347bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CEU2  			   Buses=[349b , 349bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.RU1	 	           Buses=[351b , 351bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Indigena1 	 	   Buses=[414b , 414bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Indigena2		   Buses=[415b , 415bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CEF  			   Buses=[332b , 332bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CPD   			   Buses=[320b , 320bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G9 360 kVA
+New Transformer.Reitoria1		   Buses=[319b , 319bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Reitoria2	 	   Buses=[319b , 319bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Centroecumenico    Buses=[311b , 311bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Anfiteatro		   Buses=[316b , 316bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[1000  1000 ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Pscinas		       Buses=[304b , 304bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Parqueexposicoes1  Buses=[292b , 292bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Parqueexposicoes2  Buses=[284b , 284bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Parqueexposicoes3  Buses=[282b , 282bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Parqueexposicoes4  Buses=[276b , 276bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Parqueexposicoes5  Buses=[279b , 279bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[80    80   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.AGITEC		       Buses=[273b , 273bBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+//===================================================================================================================================================
+
+//=========================== TRs Circuito 4 ========================================================================================================
+
+New Transformer.Gráfica			   Buses=[36d , 36dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CTISM		  	   Buses=[30d , 30dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Labmotores		   Buses=[35d , 35dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Carga2	 	  	   Buses=[34d , 34dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Baciashidro	 	   Buses=[25d , 25dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Engquimica		   Buses=[24d , 24dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Labhidraulica	   Buses=[22d , 22dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Quimica			   Buses=[03d , 03dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.LabCT		       Buses=[02d , 02dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Matematica 	 	   Buses=[01d , 01dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CT				   Buses=[01d , 01dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CE	 			   Buses=[05d , 05dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Almoxarifado	   Buses=[08d , 08dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CE2	 	           Buses=[10d , 10dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Napo1	 	 	   Buses=[20d , 20dBT ] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75	75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Napo2			   Buses=[430d, 430dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73  // G5 115 kVA
+New Transformer.Manutencao		   Buses=[106d, 106dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Poço1			   Buses=[109d, 109dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[30    30   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Poço2			   Buses=[112d, 112dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[30    30   ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Labengnatural 	   Buses=[115d, 115dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73  //G3 30 kVA
+New Transformer.Restjardimbot	   Buses=[119d, 119dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Jardimbot		   Buses=[122d, 122dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Coxilha		       Buses=[127d, 127dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Galpao1		 	   Buses=[363d, 363dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[15    15   ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Galpao2			   Buses=[375d, 375dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Galpao3			   Buses=[391d, 391dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45 	  45   ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Antena			   Buses=[395d, 395dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Fatec 	 	 	   Buses=[130d, 130dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Detran		       Buses=[135d, 135dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Petrobras		   Buses=[134d, 134dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio18	  	   Buses=[142d, 142dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G2 30 kVA
+New Transformer.Predio19		   Buses=[141d, 141dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio21 	  	   Buses=[139d, 139dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CEEMA	  	 	   Buses=[138d, 138dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Dentrologia		   Buses=[146d, 146dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio40		   Buses=[152d, 152dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio42		   Buses=[150d, 150dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[500   500  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio43	       Buses=[149d, 149dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Predio44  	 	   Buses=[148d, 148dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Geomatica	 	   Buses=[154d, 154dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.NIDAL 			   Buses=[252d, 252dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.LabFloresta		   Buses=[255d, 255dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Danca 	           Buses=[427d, 427dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Musica	 	 	   Buses=[260d, 260dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CCSH			   Buses=[259d, 259dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Viveiro			   Buses=[262d, 262dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75 	  75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Planetario		   Buses=[158d, 158dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[300   300  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CCSHA			   Buses=[161d, 161dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CCSHB		 	   Buses=[160d, 160dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.CCSHC			   Buses=[159d, 159dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Politecnico		   Buses=[223d, 223dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Politecnico2       Buses=[227d, 227dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Aviario			   Buses=[238d, 238dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45    45   ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Raçoes			   Buses=[236d, 236dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Zootecnia		   Buses=[234d, 234dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Psicultura1	 	   Buses=[397d, 397dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G1 20 kVA
+New Transformer.Psicultura2	 	   Buses=[249d, 249dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Suino		       Buses=[404d, 404dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[75    75   ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Agricola		   Buses=[166d, 166dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Destilaria	 	   Buses=[170d, 170dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Virologia	       Buses=[272d, 272dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.HCV	 			   Buses=[181d, 181dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[250   250  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G7 240 kVA
+New Transformer.Bioterio	       Buses=[199d, 199dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73 // G6 180 kVA
+New Transformer.Cetas			   Buses=[198d, 198dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[112.5 112.5] Xhl=6 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Irriga			   Buses=[204d, 204dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[45 	  45 ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Tambo			   Buses=[210d, 210dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[225   225  ] Xhl=8 phases=3 Rneut=0.5 %loadloss=3.73
+New Transformer.Laticinios		   Buses=[219d, 219dBT] Conns=[delta delta] kVs=[13.8 0.38] kVAs=[150   150  ] Xhl=4 phases=3 Rneut=0.5 %loadloss=3.73
+
+//==================================================================================================================================================
+

@@ -1,0 +1,20 @@
+Clear 
+
+
+Compile Mestre.DSS
+
+New Energymeter.SE element = Line.Sub terminal = 1
+New Monitor.SE element = Line.Sub Terminal = 1 mode = 1 ppolar = no
+
+Set Algorithm = Newton
+Set maxiterations = 5
+
+Set mode = snapshot number = 420
+Set controlmode = static
+Set DIVerbose = true
+Set overloadreport = true
+Set voltexcept = true
+set allowduplicates = yes
+
+Solve
+

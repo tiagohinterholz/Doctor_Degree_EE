@@ -1,0 +1,20 @@
+clear
+
+set datapath = T:\Doctor_Degree_EE\Projeto_Doutorado_yearly_COM_ESS
+
+New Circuit.UFSM  BasekV = 13.8  Bus1 = Subestacao  pu = 1.00  MVASC3 = 20000  100000  
+
+Redirect Codigo_Linhas.DSS
+Redirect Linhas.DSS
+Redirect Transformadores.DSS
+Redirect Loadshapecargas.DSS
+Redirect Cargas.DSS
+Redirect Geradores.DSS
+Redirect Storages.DSS
+
+
+Set Voltagebases = [13.8, 0.38, 0.22]    
+Calcvoltagebases
+
+
+Makebuslist

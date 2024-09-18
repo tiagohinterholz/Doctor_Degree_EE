@@ -1,0 +1,20 @@
+
+//============================================ GRUPO MOTO GERADORES ========================================
+
+New generator.Psicultura            Bus1=G1    phases=3  kV=0.38  kW=18     PF=0.90 model=3  conn=delta  //kW=18   
+New generator.Predio17              Bus1=G2    phases=3  kV=0.38  kW=27     PF=0.90 model=3  conn=delta  //kW=27   
+New generator.Lamic                 Bus1=G3    phases=3  kV=0.38  kW=27     PF=0.90 model=3  conn=delta  //kW=27   
+New generator.CCS 				    Bus1=G4    phases=3  kV=0.38  kW=59.4   PF=0.90 model=3  conn=delta  //kW=59.4 
+New generator.Napo		    		Bus1=G5    phases=3  kV=0.38  kW=103.5  PF=0.90 model=3  conn=delta  //kW=103.5
+New generator.BioterioC 		    Bus1=G6    phases=3  kV=0.38  kW=162    PF=0.90 model=3  conn=delta  //kW=162  
+New generator.HCV				    Bus1=G7    phases=3  kV=0.38  kW=216    PF=0.90 model=3  conn=delta  //kW=216                                                                                
+New generator.RedeBio               Bus1=G8    phases=3  kV=0.38  kW=234    PF=0.90 model=3  conn=delta  //kW=234  
+New generator.CPD    			    Bus1=G9    phases=3  kV=0.38  kW=324    PF=0.90 model=3  conn=delta  //kW=324  
+																										  
+//============================================= GERADORES UFV ================================================
+
+//New generator.Predio9F              bus1= G10  phases=3  kV=0.38 conn=delta kW=110  PF=1 model=1 daily=GenUFV //kW=110 
+//New generator.Parque_Exp            bus1= G11  phases=3  kV=0.38 conn=delta kW=400  PF=1 model=1 daily=GenUFV //kW=400
+//New generator.CTISM                 bus1= G12  phases=3  kV=0.38 conn=delta kW=45   PF=1 model=1 daily=GenUFV //kW=45 
+//New generator.CEU60                 bus1= G13  phases=3  kV=0.38 conn=delta kW=35   PF=1 model=1 daily=GenUFV //kW=35 
+																							    

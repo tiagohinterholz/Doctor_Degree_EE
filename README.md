@@ -1,1 +1,5 @@
-# Doctor_Degree_EE
+# Based_Simulation Time Series Load Flow
+
+> This repository presents all the simulation code for a microgrid and its respective power flow over a one-year analysis period with a 15-minute step. The objective is to simulate the dispatch of generation from motor generator sets, photovoltaic generation and energy storage along the microgrid. The simulation in version 1. does not use the py.dssinterface library. In the next commit I will be updating the code for this library and refactoring it.
+
+**Objetive**: The purpose of this simulation is to use demand forecasting to anticipate any demand overshoots that may occur within a 15-minute interval and to check what is available for distributed generation and to insert it into the system in advance. This way, fines for exceeding demand are avoided. However, technical and operational restrictions are imposed to maintain the safety and operational balance of the microgrid.
